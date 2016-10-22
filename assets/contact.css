@@ -1,0 +1,80 @@
+h1{
+	text-align: center;
+	color: green;
+}
+body{
+
+	background-image: url("contact.jpg")
+}
+.bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+table, th, td {
+    border: 1px solid black;
+     
+    margin-left:auto; 
+    margin-right:auto;
+  }
+
+  
+
+  p {
+
+    color:purple;
+  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: yellow;
+}
+
+.active {
+    background-color: blue;
+}
+h2 {
+  text-align: left;
+  color: grey;
+}
+#footer{
+	color:#000000;
+	text-align: center;
+	font-size: small;
+	font-style: italic;
+	margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

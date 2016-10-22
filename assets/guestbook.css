@@ -1,0 +1,21 @@
+body{
+	background: url("guest.jpg");
+   
+}
+div.panel-body{
+	color: blue;
+}
+footer{
+	color:ghostwhite;
+}
+a{
+	color: red;
+	text-decoration: underline;
+	font-weight: 700;
+}
+a:hover{
+	color: orange;
+}
+h2{
+	color: antiquewhite;
+}
